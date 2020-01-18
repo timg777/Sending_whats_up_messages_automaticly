@@ -11,5 +11,6 @@ Then run:
         python3 whatsapp_mess.py
 
 Thank you for using my script!
+
 Enjoy!
 
